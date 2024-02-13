@@ -1,30 +1,14 @@
-# ALEM
-ALEM - UGR (Álgebra Lineal y Estructuras Matemáticas)
- 
-<!-- TABLE OF CONTENTS -->
-## Tabla de contenidos
+# Linear Algebra and Mathematical Structures (UGR)
 
-* [Apuntes](#p)
-* [Ejercicios](#ej)
-* [Examenes](#ex)
-* [Transparencias](#t)
-* [Licencia](#license)
-* [Contacto](#contact)
+This is a repository for the Linear Algebra and Mathematical Structures subject that I took in my first year of the Bachelor's Degree in Computer Engineering at University of Granada (UGR). Here you can find the notes, exercises, exams and slides that I did for this subject.
 
-## Apuntes
+## Contents
 
-## Ejercicios
+- Notes: This folder contains the notes that I took for the Linear Algebra and Mathematical Structures subject. The notes cover the basics of linear algebra, matrices, vector spaces, etc.
+- Exercises: This folder contains the exercises that I did for the Linear Algebra and Mathematical Structures subject. The exercises are divided into different topics and levels of difficulty.
+- Exams: This folder contains the exams that I did for the Linear Algebra and Mathematical Structures subject. The exams are from different years and terms and include the solutions.
+- Slides: This folder contains the slides that I used for the Linear Algebra and Mathematical Structures subject. The slides are from the lectures and tutorials given by the professors.
 
-## Examenes
+## Contact
 
-## Transparencias
-
-<!-- LICENCIA -->
-## Licencia
-
-Distribuido bajo la licencia MIT. Vea `LICENSE` para más información.
-
-<!-- CONTACTO -->
-## Contacto
-
-Jose Antonio Padial Molina - joseapadialmolina@gmail.com
+If you have any questions or suggestions about my repository, you can contact me at joseapadialmolina@gmail.com. Thank you for visiting my GitHub profile. 😊
